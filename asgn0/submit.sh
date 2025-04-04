@@ -1,0 +1,1 @@
+python3 -m autograder.run.submit hello.c Makefile README.md attestation.txt
